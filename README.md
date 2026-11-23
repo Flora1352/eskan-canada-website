@@ -1,2 +1,3 @@
-# eskan-canada-website
-ESKAN Canada Building Group — custom home builder in the GTA. Website I built: www.eskanca.com
+# ESKAN Canada Building Group
+Custom home builder in the GTA.
+Website I built: https://www.eskanca.com
